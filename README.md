@@ -29,6 +29,7 @@ Aplicação simples e funcional para conversão de moedas em tempo real, utiliza
     git clone https://github.com/diego-barreiro/conversor-moedas.git
 
 2. Acesse a pasta do projeto:
+    ```bash
     cd conversor-moedas
 
 3. Abra o arquivo index.html no navegador
