@@ -34,8 +34,6 @@ Aplicação simples e funcional para conversão de moedas em tempo real, utiliza
   <img src="preview.png" alt="preview do projeto" />
 </p>
 
-![preview do projeto](preview.png)
-
 📈 Próximas melhorias
 • 	Adição de novas moedas (JPY, GBP, AUD, etc.)
 • 	Detecção automática de idioma do navegador
