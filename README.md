@@ -1,6 +1,6 @@
 # 💱 Conversor de Moedas
 
-Aplicação simples e funcional para conversão de moedas em tempo real, utilizando a API pública [Frankfurter.app](https://www.frankfurter.app). Desenvolvido com foco em boas práticas, clareza de código e uso inteligente de recursos nativos do JavaScript.
+Aplicação simples e funcional para conversão de moedas em tempo real, utilizando a API pública <a href="https://www.frankfurter.dev">Frankfurter.app</a>. Desenvolvido com foco em boas práticas, clareza de código e uso inteligente de recursos nativos do JavaScript.
 
 ## 🚀 Funcionalidades
 
@@ -28,7 +28,12 @@ Aplicação simples e funcional para conversão de moedas em tempo real, utiliza
 3. Abra o arquivo index.html no navegador
     Nenhuma instalação de dependências é necessária
 
-📸 Preview
+## 📸 Preview
+
+<p align="center">
+  <img src="preview.png" alt="preview do projeto" />
+</p>
+
 ![preview do projeto](preview.png)
 
 📈 Próximas melhorias
@@ -45,4 +50,5 @@ Aplicação simples e funcional para conversão de moedas em tempo real, utiliza
 
 📌 Autor
 Diego Barreiro
-[LinkedIn](https://www.linkedin.com/in/diegobarreiro-dev/) • [GitHub](https://github.com/diego-barreiro)
+<a href="https://www.linkedin.com/in/diegobarreiro-dev/" target="_blank">LinkedIn</a>
+ • <a href="https://github.com/diego-barreiro" target="_blank">GitHub</a>
