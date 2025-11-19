@@ -40,7 +40,7 @@ Aplicação simples e funcional para conversão de moedas em tempo real, utiliza
 ## 📸 Preview
 
 <p align="center">
-  <img src="preview.png" alt="preview do projeto" />
+  <img src="conversor-preview.png" alt="preview do projeto" />
 </p>
 
 📈 Próximas melhorias
